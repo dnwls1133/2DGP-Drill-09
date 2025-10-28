@@ -1,6 +1,6 @@
 # layer 0: Background Objects
-# layer 1: Foreground Objects
-
+# layer 1: Character Objects
+# layer 2 : Foreground Objects
 
 world = [[],[]]
 
