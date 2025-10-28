@@ -2,7 +2,7 @@
 # layer 1: Character Objects
 # layer 2 : Foreground Objects
 
-world = [[],[]]
+world = [[],[],[]]
 
 # 월드에 객체 추가
 def add_object(o,depth=0):
