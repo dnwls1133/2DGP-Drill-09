@@ -114,8 +114,8 @@ class Run:
 
 
 class Boy:
-    def __init__(self):
-        self.x, self.y = 400, 90
+    def __init__(self,x =400,y = 90):
+        self.x, self.y = x, y
         self.frame = 0
         self.face_dir = 1
         self.dir = 0
